@@ -1,0 +1,530 @@
+[
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\layout\\toast_layout.xml",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\layout\\toast_layout.xml"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "F:\\x0\\src\\main\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_music.xml",
+        "source": "F:\\x0\\src\\main\\res\\layout\\adapter_music.xml"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\layout\\activity_order.xml",
+        "source": "F:\\x0\\src\\main\\res\\layout\\activity_order.xml"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\layout\\activity_liuyan.xml",
+        "source": "F:\\x0\\src\\main\\res\\layout\\activity_liuyan.xml"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\layout\\tv_list_item.xml",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\layout\\tv_list_item.xml"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "F:\\x0\\src\\main\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\layout\\swipe_card_content.xml",
+        "source": "F:\\x0\\src\\main\\res\\layout\\swipe_card_content.xml"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\layout\\activity_game.xml",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\layout\\activity_game.xml"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_home.xml",
+        "source": "F:\\x0\\src\\main\\res\\layout\\abc_action_bar_home.xml"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_vod.xml",
+        "source": "F:\\x0\\src\\main\\res\\layout\\adapter_vod.xml"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ad.xml",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\layout\\activity_ad.xml"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\layout\\popwin_tv_programlist.xml",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\layout\\popwin_tv_programlist.xml"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\layout\\textview.xml",
+        "source": "F:\\x0\\src\\main\\res\\layout\\textview.xml"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\layout\\swipe_card_content.xml",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\layout\\swipe_card_content.xml"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\layout\\gallery_bg.xml",
+        "source": "F:\\x0\\src\\main\\res\\layout\\gallery_bg.xml"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\layout\\activity_serviceother.xml",
+        "source": "F:\\x0\\src\\main\\res\\layout\\activity_serviceother.xml"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_decor_overlay.xml",
+        "source": "F:\\x0\\src\\main\\res\\layout\\abc_action_bar_decor_overlay.xml"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\layout\\activity_drama.xml",
+        "source": "F:\\x0\\src\\main\\res\\layout\\activity_drama.xml"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\layout\\activity_liuwei.xml",
+        "source": "F:\\x0\\src\\main\\res\\layout\\activity_liuwei.xml"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_tabbar.xml",
+        "source": "F:\\x0\\src\\main\\res\\layout\\abc_action_bar_tabbar.xml"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\layout\\gallery_bg.xml",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\layout\\gallery_bg.xml"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\layout\\localservice_popupwindow.xml",
+        "source": "F:\\x0\\src\\main\\res\\layout\\localservice_popupwindow.xml"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\layout\\activity_music.xml",
+        "source": "F:\\x0\\src\\main\\res\\layout\\activity_music.xml"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\layout\\head.xml",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\layout\\head.xml"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\layout\\activity_product.xml",
+        "source": "F:\\x0\\src\\main\\res\\layout\\activity_product.xml"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\layout\\activity_game.xml",
+        "source": "F:\\x0\\src\\main\\res\\layout\\activity_game.xml"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\layout\\vol_dialog.xml",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\layout\\vol_dialog.xml"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\layout\\abc_simple_decor.xml",
+        "source": "F:\\x0\\src\\main\\res\\layout\\abc_simple_decor.xml"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_tab.xml",
+        "source": "F:\\x0\\src\\main\\res\\layout\\abc_action_bar_tab.xml"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_jishicategory.xml",
+        "source": "F:\\x0\\src\\main\\res\\layout\\adapter_jishicategory.xml"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\layout\\activity_drama.xml",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\layout\\activity_drama.xml"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\layout\\remindtext.xml",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\layout\\remindtext.xml"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\layout\\activity_music.xml",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\layout\\activity_music.xml"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\layout\\activity_foddetail.xml",
+        "source": "F:\\x0\\src\\main\\res\\layout\\activity_foddetail.xml"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\layout\\activity_foddetail.xml",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\layout\\activity_foddetail.xml"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_game.xml",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\layout\\adapter_game.xml"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item.xml",
+        "source": "F:\\x0\\src\\main\\res\\layout\\abc_action_mode_close_item.xml"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_decor.xml",
+        "source": "F:\\x0\\src\\main\\res\\layout\\abc_action_bar_decor.xml"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "F:\\x0\\src\\main\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\layout\\ctrols.xml",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\layout\\ctrols.xml"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\layout\\activity_videoview.xml",
+        "source": "F:\\x0\\src\\main\\res\\layout\\activity_videoview.xml"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "F:\\x0\\src\\main\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_home.xml",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\layout\\abc_action_bar_home.xml"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "F:\\x0\\src\\main\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "F:\\x0\\src\\main\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\layout\\activity_jishi.xml",
+        "source": "F:\\x0\\src\\main\\res\\layout\\activity_jishi.xml"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\layout\\localservice_popupwindow.xml",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\layout\\localservice_popupwindow.xml"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\layout\\vol_dialog.xml",
+        "source": "F:\\x0\\src\\main\\res\\layout\\vol_dialog.xml"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\layout\\mediac.xml",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\layout\\mediac.xml"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\layout\\activity_welcome.xml",
+        "source": "F:\\x0\\src\\main\\res\\layout\\activity_welcome.xml"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\layout\\bottom.xml",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\layout\\bottom.xml"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_service.xml",
+        "source": "F:\\x0\\src\\main\\res\\layout\\adapter_service.xml"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\layout\\activity_liuwei.xml",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\layout\\activity_liuwei.xml"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\layout\\videoplayer.xml",
+        "source": "F:\\x0\\src\\main\\res\\layout\\videoplayer.xml"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\layout\\activity_jishi.xml",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\layout\\activity_jishi.xml"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_service.xml",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\layout\\adapter_service.xml"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "F:\\x0\\src\\main\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\layout\\head.xml",
+        "source": "F:\\x0\\src\\main\\res\\layout\\head.xml"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_tabbar.xml",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\layout\\abc_action_bar_tabbar.xml"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "F:\\x0\\src\\main\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_decor.xml",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\layout\\abc_action_bar_decor.xml"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "F:\\x0\\src\\main\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\layout\\activity_bottom_menu.xml",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\layout\\activity_bottom_menu.xml"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "F:\\x0\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "F:\\x0\\src\\main\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\layout\\videoplayer.xml",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\layout\\videoplayer.xml"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\layout\\activity_jishidetail.xml",
+        "source": "F:\\x0\\src\\main\\res\\layout\\activity_jishidetail.xml"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\layout\\activity_serviceotherdetail.xml",
+        "source": "F:\\x0\\src\\main\\res\\layout\\activity_serviceotherdetail.xml"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\layout\\activity_order.xml",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\layout\\activity_order.xml"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item.xml",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\layout\\abc_action_mode_close_item.xml"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\layout\\popwin_tv_programlist.xml",
+        "source": "F:\\x0\\src\\main\\res\\layout\\popwin_tv_programlist.xml"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\layout\\activity_voddetail.xml",
+        "source": "F:\\x0\\src\\main\\res\\layout\\activity_voddetail.xml"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_decor_overlay.xml",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\layout\\abc_action_bar_decor_overlay.xml"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\layout\\activity_vod.xml",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\layout\\activity_vod.xml"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_include.xml",
+        "source": "F:\\x0\\src\\main\\res\\layout\\abc_activity_chooser_view_include.xml"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\layout\\tv_list_item.xml",
+        "source": "F:\\x0\\src\\main\\res\\layout\\tv_list_item.xml"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\layout\\float_layout.xml",
+        "source": "F:\\x0\\src\\main\\res\\layout\\float_layout.xml"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_include.xml",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\layout\\abc_activity_chooser_view_include.xml"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\layout\\activity_product.xml",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\layout\\activity_product.xml"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "F:\\x0\\src\\main\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\layout\\activity_videoview.xml",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\layout\\activity_videoview.xml"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\layout\\abc_simple_decor.xml",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\layout\\abc_simple_decor.xml"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_music.xml",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\layout\\adapter_music.xml"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_decor_include.xml",
+        "source": "F:\\x0\\src\\main\\res\\layout\\abc_action_bar_decor_include.xml"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\layout\\remindtext.xml",
+        "source": "F:\\x0\\src\\main\\res\\layout\\remindtext.xml"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\layout\\textview.xml",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\layout\\textview.xml"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "F:\\x0\\src\\main\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\layout\\float_layout.xml",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\layout\\float_layout.xml"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "F:\\x0\\src\\main\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\layout\\activity_voddetail.xml",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\layout\\activity_voddetail.xml"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\layout\\bottoms.xml",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\layout\\bottoms.xml"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\layout\\gallery_images.xml",
+        "source": "F:\\x0\\src\\main\\res\\layout\\gallery_images.xml"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\layout\\bottoms.xml",
+        "source": "F:\\x0\\src\\main\\res\\layout\\bottoms.xml"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_tab.xml",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\layout\\abc_action_bar_tab.xml"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\layout\\activity_welcome.xml",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\layout\\activity_welcome.xml"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\layout\\ctrols.xml",
+        "source": "F:\\x0\\src\\main\\res\\layout\\ctrols.xml"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\layout\\activity_liuyan.xml",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\layout\\activity_liuyan.xml"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ad.xml",
+        "source": "F:\\x0\\src\\main\\res\\layout\\activity_ad.xml"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "F:\\x0\\src\\main\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_vod.xml",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\layout\\adapter_vod.xml"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\layout\\mediac.xml",
+        "source": "F:\\x0\\src\\main\\res\\layout\\mediac.xml"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\layout\\toast_layout.xml",
+        "source": "F:\\x0\\src\\main\\res\\layout\\toast_layout.xml"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\layout\\activity_serviceother.xml",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\layout\\activity_serviceother.xml"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_jishicategory.xml",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\layout\\adapter_jishicategory.xml"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "F:\\x0\\src\\main\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\layout\\activity_jishidetail.xml",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\layout\\activity_jishidetail.xml"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\layout\\bottom.xml",
+        "source": "F:\\x0\\src\\main\\res\\layout\\bottom.xml"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\layout\\activity_vod.xml",
+        "source": "F:\\x0\\src\\main\\res\\layout\\activity_vod.xml"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "F:\\x0\\src\\main\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\layout\\gallery_images.xml",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\layout\\gallery_images.xml"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_decor_include.xml",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\layout\\abc_action_bar_decor_include.xml"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\layout\\activity_bottom_menu.xml",
+        "source": "F:\\x0\\src\\main\\res\\layout\\activity_bottom_menu.xml"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_game.xml",
+        "source": "F:\\x0\\src\\main\\res\\layout\\adapter_game.xml"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\layout\\activity_serviceotherdetail.xml",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\layout\\activity_serviceotherdetail.xml"
+    }
+]

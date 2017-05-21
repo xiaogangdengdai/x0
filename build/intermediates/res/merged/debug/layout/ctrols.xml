@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.ssx.spa.view.common.MediaCtrolls android:id="@id/c" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    <LinearLayout android:gravity="center" android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentRight="true" android:layout_centerVertical="true">
+        <com.ssx.spa.view.common.VideoBars android:layout_gravity="center" android:id="@id/bars" android:layout_width="wrap_content" android:layout_height="200.0dip" android:max="100" />
+        <TextView android:textSize="22.0px" android:id="@id/vol_txt" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" />
+        <ImageButton android:id="@id/back" android:background="@xml/vod_back" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" />
+        <ImageButton android:id="@id/jinyin" android:background="@xml/jinyin" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="20.0dip" />
+    </LinearLayout>
+    <com.ssx.spa.view.common.BottomMenuView android:id="@id/bottomview" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentBottom="true" />
+</RelativeLayout>

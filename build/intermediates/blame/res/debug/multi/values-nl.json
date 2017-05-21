@@ -1,0 +1,506 @@
+[
+    {
+        "outputFile": "F:\\x0\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-nl\\values-nl.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 87,
+                    "endOffset": 138
+                },
+                "from": {
+                    "file": "F:\\x0\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 114,
+                        "endColumn": 87,
+                        "endOffset": 197
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 143,
+                    "endColumn": 74,
+                    "endOffset": 213
+                },
+                "from": {
+                    "file": "F:\\x0\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 203,
+                        "endColumn": 74,
+                        "endOffset": 273
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 218,
+                    "endColumn": 76,
+                    "endOffset": 290
+                },
+                "from": {
+                    "file": "F:\\x0\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 279,
+                        "endColumn": 76,
+                        "endOffset": 351
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 295,
+                    "endColumn": 55,
+                    "endOffset": 346
+                },
+                "from": {
+                    "file": "F:\\x0\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 55,
+                        "endOffset": 108
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 351,
+                    "endColumn": 77,
+                    "endOffset": 424
+                },
+                "from": {
+                    "file": "F:\\x0\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 846,
+                        "endColumn": 77,
+                        "endOffset": 919
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 429,
+                    "endColumn": 89,
+                    "endOffset": 514
+                },
+                "from": {
+                    "file": "F:\\x0\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 755,
+                        "endColumn": 89,
+                        "endOffset": 840
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 519,
+                    "endColumn": 80,
+                    "endOffset": 595
+                },
+                "from": {
+                    "file": "F:\\x0\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 502,
+                        "endColumn": 80,
+                        "endOffset": 578
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 600,
+                    "endColumn": 73,
+                    "endOffset": 669
+                },
+                "from": {
+                    "file": "F:\\x0\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 427,
+                        "endColumn": 73,
+                        "endOffset": 496
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 674,
+                    "endColumn": 68,
+                    "endOffset": 738
+                },
+                "from": {
+                    "file": "F:\\x0\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 357,
+                        "endColumn": 68,
+                        "endOffset": 421
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 743,
+                    "endColumn": 84,
+                    "endOffset": 823
+                },
+                "from": {
+                    "file": "F:\\x0\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 584,
+                        "endColumn": 84,
+                        "endOffset": 664
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 828,
+                    "endColumn": 83,
+                    "endOffset": 907
+                },
+                "from": {
+                    "file": "F:\\x0\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 670,
+                        "endColumn": 83,
+                        "endOffset": 749
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 912,
+                    "endColumn": 72,
+                    "endOffset": 980
+                },
+                "from": {
+                    "file": "F:\\x0\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1014,
+                        "endColumn": 72,
+                        "endOffset": 1082
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 985,
+                    "endColumn": 87,
+                    "endOffset": 1068
+                },
+                "from": {
+                    "file": "F:\\x0\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 925,
+                        "endColumn": 87,
+                        "endOffset": 1008
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-nl\\values-nl.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 87,
+                    "endOffset": 138
+                },
+                "from": {
+                    "file": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 114,
+                        "endColumn": 87,
+                        "endOffset": 197
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 143,
+                    "endColumn": 74,
+                    "endOffset": 213
+                },
+                "from": {
+                    "file": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 203,
+                        "endColumn": 74,
+                        "endOffset": 273
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 218,
+                    "endColumn": 76,
+                    "endOffset": 290
+                },
+                "from": {
+                    "file": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 279,
+                        "endColumn": 76,
+                        "endOffset": 351
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 295,
+                    "endColumn": 55,
+                    "endOffset": 346
+                },
+                "from": {
+                    "file": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 55,
+                        "endOffset": 108
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 351,
+                    "endColumn": 77,
+                    "endOffset": 424
+                },
+                "from": {
+                    "file": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 846,
+                        "endColumn": 77,
+                        "endOffset": 919
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 429,
+                    "endColumn": 89,
+                    "endOffset": 514
+                },
+                "from": {
+                    "file": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 755,
+                        "endColumn": 89,
+                        "endOffset": 840
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 519,
+                    "endColumn": 80,
+                    "endOffset": 595
+                },
+                "from": {
+                    "file": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 502,
+                        "endColumn": 80,
+                        "endOffset": 578
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 600,
+                    "endColumn": 73,
+                    "endOffset": 669
+                },
+                "from": {
+                    "file": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 427,
+                        "endColumn": 73,
+                        "endOffset": 496
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 674,
+                    "endColumn": 68,
+                    "endOffset": 738
+                },
+                "from": {
+                    "file": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 357,
+                        "endColumn": 68,
+                        "endOffset": 421
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 743,
+                    "endColumn": 84,
+                    "endOffset": 823
+                },
+                "from": {
+                    "file": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 584,
+                        "endColumn": 84,
+                        "endOffset": 664
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 828,
+                    "endColumn": 83,
+                    "endOffset": 907
+                },
+                "from": {
+                    "file": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 670,
+                        "endColumn": 83,
+                        "endOffset": 749
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 912,
+                    "endColumn": 72,
+                    "endOffset": 980
+                },
+                "from": {
+                    "file": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1014,
+                        "endColumn": 72,
+                        "endOffset": 1082
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 985,
+                    "endColumn": 87,
+                    "endOffset": 1068
+                },
+                "from": {
+                    "file": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 925,
+                        "endColumn": 87,
+                        "endOffset": 1008
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center" android:orientation="vertical" android:padding="10.0dip" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <ImageButton android:id="@id/crewind" android:background="@xml/control_rewind" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        <ImageButton android:id="@id/cpause" android:background="@xml/control_pause" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="20.0dip" />
+        <ImageButton android:id="@id/cforward" android:background="@xml/control_forward" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="20.0dip" />
+    </LinearLayout>
+    <LinearLayout android:gravity="center" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="10.0dip">
+        <TextView android:id="@id/ct1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="00:00" />
+        <SeekBar android:id="@id/cbar" android:padding="5.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_weight="1.0" />
+        <ProgressBar android:id="@id/cbars" android:padding="5.0dip" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_weight="1.0" style="?android:attr/progressBarStyleHorizontal" />
+        <TextView android:id="@id/ct2" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="00:00" />
+    </LinearLayout>
+</LinearLayout>

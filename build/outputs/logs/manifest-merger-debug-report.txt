@@ -1,0 +1,219 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\MasterCracker\SourceBackup\20170515\x0\src\main\AndroidManifest.xml:2:1-51:12
+	package
+		ADDED from D:\MasterCracker\SourceBackup\20170515\x0\src\main\AndroidManifest.xml:2:120-141
+		INJECTED from D:\MasterCracker\SourceBackup\20170515\x0\src\main\AndroidManifest.xml
+		INJECTED from D:\MasterCracker\SourceBackup\20170515\x0\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\MasterCracker\SourceBackup\20170515\x0\src\main\AndroidManifest.xml:2:94-119
+		INJECTED from D:\MasterCracker\SourceBackup\20170515\x0\src\main\AndroidManifest.xml
+		INJECTED from D:\MasterCracker\SourceBackup\20170515\x0\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from D:\MasterCracker\SourceBackup\20170515\x0\src\main\AndroidManifest.xml:2:70-93
+		INJECTED from D:\MasterCracker\SourceBackup\20170515\x0\src\main\AndroidManifest.xml
+		INJECTED from D:\MasterCracker\SourceBackup\20170515\x0\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\MasterCracker\SourceBackup\20170515\x0\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from D:\MasterCracker\SourceBackup\20170515\x0\src\main\AndroidManifest.xml:3:5-73
+	android:targetSdkVersion
+		ADDED from D:\MasterCracker\SourceBackup\20170515\x0\src\main\AndroidManifest.xml:3:41-70
+		INJECTED from D:\MasterCracker\SourceBackup\20170515\x0\src\main\AndroidManifest.xml
+		INJECTED from D:\MasterCracker\SourceBackup\20170515\x0\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\MasterCracker\SourceBackup\20170515\x0\src\main\AndroidManifest.xml:3:15-40
+		INJECTED from D:\MasterCracker\SourceBackup\20170515\x0\src\main\AndroidManifest.xml
+		INJECTED from D:\MasterCracker\SourceBackup\20170515\x0\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from D:\MasterCracker\SourceBackup\20170515\x0\src\main\AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from D:\MasterCracker\SourceBackup\20170515\x0\src\main\AndroidManifest.xml:4:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\MasterCracker\SourceBackup\20170515\x0\src\main\AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from D:\MasterCracker\SourceBackup\20170515\x0\src\main\AndroidManifest.xml:5:22-76
+uses-permission#android.permission.READ_LOGS
+ADDED from D:\MasterCracker\SourceBackup\20170515\x0\src\main\AndroidManifest.xml:6:5-68
+	android:name
+		ADDED from D:\MasterCracker\SourceBackup\20170515\x0\src\main\AndroidManifest.xml:6:22-65
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from D:\MasterCracker\SourceBackup\20170515\x0\src\main\AndroidManifest.xml:7:5-73
+	android:name
+		ADDED from D:\MasterCracker\SourceBackup\20170515\x0\src\main\AndroidManifest.xml:7:22-70
+uses-permission#android.permission.SET_TIME_ZONE
+ADDED from D:\MasterCracker\SourceBackup\20170515\x0\src\main\AndroidManifest.xml:8:5-72
+	android:name
+		ADDED from D:\MasterCracker\SourceBackup\20170515\x0\src\main\AndroidManifest.xml:8:22-69
+uses-permission#android.permission.CHANGE_CONFIGURATION
+ADDED from D:\MasterCracker\SourceBackup\20170515\x0\src\main\AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from D:\MasterCracker\SourceBackup\20170515\x0\src\main\AndroidManifest.xml:9:22-76
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from D:\MasterCracker\SourceBackup\20170515\x0\src\main\AndroidManifest.xml:10:5-78
+	android:name
+		ADDED from D:\MasterCracker\SourceBackup\20170515\x0\src\main\AndroidManifest.xml:10:22-75
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from D:\MasterCracker\SourceBackup\20170515\x0\src\main\AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from D:\MasterCracker\SourceBackup\20170515\x0\src\main\AndroidManifest.xml:11:22-76
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from D:\MasterCracker\SourceBackup\20170515\x0\src\main\AndroidManifest.xml:12:5-76
+	android:name
+		ADDED from D:\MasterCracker\SourceBackup\20170515\x0\src\main\AndroidManifest.xml:12:22-73
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from D:\MasterCracker\SourceBackup\20170515\x0\src\main\AndroidManifest.xml:13:5-76
+	android:name
+		ADDED from D:\MasterCracker\SourceBackup\20170515\x0\src\main\AndroidManifest.xml:13:22-73
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\MasterCracker\SourceBackup\20170515\x0\src\main\AndroidManifest.xml:15:5-81
+	android:name
+		ADDED from D:\MasterCracker\SourceBackup\20170515\x0\src\main\AndroidManifest.xml:15:22-78
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from D:\MasterCracker\SourceBackup\20170515\x0\src\main\AndroidManifest.xml:16:5-81
+	android:name
+		ADDED from D:\MasterCracker\SourceBackup\20170515\x0\src\main\AndroidManifest.xml:16:22-78
+application
+ADDED from D:\MasterCracker\SourceBackup\20170515\x0\src\main\AndroidManifest.xml:17:5-50:19
+	android:label
+		ADDED from D:\MasterCracker\SourceBackup\20170515\x0\src\main\AndroidManifest.xml:17:77-109
+	android:allowBackup
+		ADDED from D:\MasterCracker\SourceBackup\20170515\x0\src\main\AndroidManifest.xml:17:219-245
+	android:icon
+		ADDED from D:\MasterCracker\SourceBackup\20170515\x0\src\main\AndroidManifest.xml:17:110-144
+	android:largeHeap
+		ADDED from D:\MasterCracker\SourceBackup\20170515\x0\src\main\AndroidManifest.xml:17:246-270
+	android:persistent
+		ADDED from D:\MasterCracker\SourceBackup\20170515\x0\src\main\AndroidManifest.xml:17:193-218
+	android:theme
+		ADDED from D:\MasterCracker\SourceBackup\20170515\x0\src\main\AndroidManifest.xml:17:18-76
+	android:name
+		ADDED from D:\MasterCracker\SourceBackup\20170515\x0\src\main\AndroidManifest.xml:17:145-192
+activity#com.ssx.spa.view.WelcomeActivity
+ADDED from D:\MasterCracker\SourceBackup\20170515\x0\src\main\AndroidManifest.xml:18:9-25:20
+	android:label
+		ADDED from D:\MasterCracker\SourceBackup\20170515\x0\src\main\AndroidManifest.xml:18:19-51
+	android:launchMode
+		ADDED from D:\MasterCracker\SourceBackup\20170515\x0\src\main\AndroidManifest.xml:18:100-131
+	android:name
+		ADDED from D:\MasterCracker\SourceBackup\20170515\x0\src\main\AndroidManifest.xml:18:52-99
+intent-filter#android.intent.action.MAIN+android.intent.category.DEFAULT+android.intent.category.HOME+android.intent.category.LAUNCHER
+ADDED from D:\MasterCracker\SourceBackup\20170515\x0\src\main\AndroidManifest.xml:19:13-24:29
+action#android.intent.action.MAIN
+ADDED from D:\MasterCracker\SourceBackup\20170515\x0\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from D:\MasterCracker\SourceBackup\20170515\x0\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\MasterCracker\SourceBackup\20170515\x0\src\main\AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from D:\MasterCracker\SourceBackup\20170515\x0\src\main\AndroidManifest.xml:21:27-74
+category#android.intent.category.HOME
+ADDED from D:\MasterCracker\SourceBackup\20170515\x0\src\main\AndroidManifest.xml:22:17-73
+	android:name
+		ADDED from D:\MasterCracker\SourceBackup\20170515\x0\src\main\AndroidManifest.xml:22:27-70
+category#android.intent.category.DEFAULT
+ADDED from D:\MasterCracker\SourceBackup\20170515\x0\src\main\AndroidManifest.xml:23:17-76
+	android:name
+		ADDED from D:\MasterCracker\SourceBackup\20170515\x0\src\main\AndroidManifest.xml:23:27-73
+activity#com.ssx.spa.view.MainActivity
+ADDED from D:\MasterCracker\SourceBackup\20170515\x0\src\main\AndroidManifest.xml:26:9-98
+	android:launchMode
+		ADDED from D:\MasterCracker\SourceBackup\20170515\x0\src\main\AndroidManifest.xml:26:64-95
+	android:name
+		ADDED from D:\MasterCracker\SourceBackup\20170515\x0\src\main\AndroidManifest.xml:26:19-63
+activity#com.ssx.spa.view.localservice.DrinkActivity
+ADDED from D:\MasterCracker\SourceBackup\20170515\x0\src\main\AndroidManifest.xml:27:9-80
+	android:name
+		ADDED from D:\MasterCracker\SourceBackup\20170515\x0\src\main\AndroidManifest.xml:27:19-77
+activity#com.ssx.spa.view.localservice.FoodActivity
+ADDED from D:\MasterCracker\SourceBackup\20170515\x0\src\main\AndroidManifest.xml:28:9-79
+	android:name
+		ADDED from D:\MasterCracker\SourceBackup\20170515\x0\src\main\AndroidManifest.xml:28:19-76
+activity#com.ssx.spa.view.localservice.FodDetailActivity
+ADDED from D:\MasterCracker\SourceBackup\20170515\x0\src\main\AndroidManifest.xml:29:9-84
+	android:name
+		ADDED from D:\MasterCracker\SourceBackup\20170515\x0\src\main\AndroidManifest.xml:29:19-81
+activity#com.ssx.spa.view.localservice.JiGongActivity
+ADDED from D:\MasterCracker\SourceBackup\20170515\x0\src\main\AndroidManifest.xml:30:9-81
+	android:name
+		ADDED from D:\MasterCracker\SourceBackup\20170515\x0\src\main\AndroidManifest.xml:30:19-78
+activity#com.ssx.spa.view.localservice.JishiActivity
+ADDED from D:\MasterCracker\SourceBackup\20170515\x0\src\main\AndroidManifest.xml:31:9-80
+	android:name
+		ADDED from D:\MasterCracker\SourceBackup\20170515\x0\src\main\AndroidManifest.xml:31:19-77
+activity#com.ssx.spa.view.localservice.JishiDetailActivity
+ADDED from D:\MasterCracker\SourceBackup\20170515\x0\src\main\AndroidManifest.xml:32:9-86
+	android:name
+		ADDED from D:\MasterCracker\SourceBackup\20170515\x0\src\main\AndroidManifest.xml:32:19-83
+activity#com.ssx.spa.view.localservice.ServiceOtherActivity
+ADDED from D:\MasterCracker\SourceBackup\20170515\x0\src\main\AndroidManifest.xml:33:9-87
+	android:name
+		ADDED from D:\MasterCracker\SourceBackup\20170515\x0\src\main\AndroidManifest.xml:33:19-84
+activity#com.ssx.spa.view.localservice.ServiceOtherDetailActivity
+ADDED from D:\MasterCracker\SourceBackup\20170515\x0\src\main\AndroidManifest.xml:34:9-93
+	android:name
+		ADDED from D:\MasterCracker\SourceBackup\20170515\x0\src\main\AndroidManifest.xml:34:19-90
+activity#com.ssx.spa.view.localservice.LiuYanActivity
+ADDED from D:\MasterCracker\SourceBackup\20170515\x0\src\main\AndroidManifest.xml:35:9-81
+	android:name
+		ADDED from D:\MasterCracker\SourceBackup\20170515\x0\src\main\AndroidManifest.xml:35:19-78
+activity#com.ssx.spa.view.localservice.OrderActivity
+ADDED from D:\MasterCracker\SourceBackup\20170515\x0\src\main\AndroidManifest.xml:36:9-80
+	android:name
+		ADDED from D:\MasterCracker\SourceBackup\20170515\x0\src\main\AndroidManifest.xml:36:19-77
+activity#com.ssx.spa.view.live.LiveActivity
+ADDED from D:\MasterCracker\SourceBackup\20170515\x0\src\main\AndroidManifest.xml:37:9-71
+	android:name
+		ADDED from D:\MasterCracker\SourceBackup\20170515\x0\src\main\AndroidManifest.xml:37:19-68
+activity#com.ssx.spa.view.live.DoubleActivity
+ADDED from D:\MasterCracker\SourceBackup\20170515\x0\src\main\AndroidManifest.xml:38:9-73
+	android:name
+		ADDED from D:\MasterCracker\SourceBackup\20170515\x0\src\main\AndroidManifest.xml:38:19-70
+activity#com.ssx.spa.view.vod.VodActivity
+ADDED from D:\MasterCracker\SourceBackup\20170515\x0\src\main\AndroidManifest.xml:39:9-129
+	android:windowSoftInputMode
+		ADDED from D:\MasterCracker\SourceBackup\20170515\x0\src\main\AndroidManifest.xml:39:67-126
+	android:name
+		ADDED from D:\MasterCracker\SourceBackup\20170515\x0\src\main\AndroidManifest.xml:39:19-66
+activity#com.ssx.spa.view.vod.DramaActivity
+ADDED from D:\MasterCracker\SourceBackup\20170515\x0\src\main\AndroidManifest.xml:40:9-71
+	android:name
+		ADDED from D:\MasterCracker\SourceBackup\20170515\x0\src\main\AndroidManifest.xml:40:19-68
+activity#com.ssx.spa.view.vod.VodDetailActivity
+ADDED from D:\MasterCracker\SourceBackup\20170515\x0\src\main\AndroidManifest.xml:41:9-75
+	android:name
+		ADDED from D:\MasterCracker\SourceBackup\20170515\x0\src\main\AndroidManifest.xml:41:19-72
+activity#com.ssx.spa.view.common.AdActivity
+ADDED from D:\MasterCracker\SourceBackup\20170515\x0\src\main\AndroidManifest.xml:42:9-71
+	android:name
+		ADDED from D:\MasterCracker\SourceBackup\20170515\x0\src\main\AndroidManifest.xml:42:19-68
+activity#com.ssx.spa.view.common.VideoViewActivity
+ADDED from D:\MasterCracker\SourceBackup\20170515\x0\src\main\AndroidManifest.xml:43:9-78
+	android:name
+		ADDED from D:\MasterCracker\SourceBackup\20170515\x0\src\main\AndroidManifest.xml:43:19-75
+activity#com.ssx.spa.view.music.MusicActivity
+ADDED from D:\MasterCracker\SourceBackup\20170515\x0\src\main\AndroidManifest.xml:44:9-133
+	android:windowSoftInputMode
+		ADDED from D:\MasterCracker\SourceBackup\20170515\x0\src\main\AndroidManifest.xml:44:71-130
+	android:name
+		ADDED from D:\MasterCracker\SourceBackup\20170515\x0\src\main\AndroidManifest.xml:44:19-70
+activity#com.ssx.spa.view.game.GameActivity
+ADDED from D:\MasterCracker\SourceBackup\20170515\x0\src\main\AndroidManifest.xml:45:9-71
+	android:name
+		ADDED from D:\MasterCracker\SourceBackup\20170515\x0\src\main\AndroidManifest.xml:45:19-68
+activity#com.ssx.spa.view.game.ProductActivity
+ADDED from D:\MasterCracker\SourceBackup\20170515\x0\src\main\AndroidManifest.xml:46:9-74
+	android:name
+		ADDED from D:\MasterCracker\SourceBackup\20170515\x0\src\main\AndroidManifest.xml:46:19-71
+activity#com.ssx.spa.view.common.LiuweiActivity
+ADDED from D:\MasterCracker\SourceBackup\20170515\x0\src\main\AndroidManifest.xml:47:9-75
+	android:name
+		ADDED from D:\MasterCracker\SourceBackup\20170515\x0\src\main\AndroidManifest.xml:47:19-72
+service#com.ssx.spa.net.BGService
+ADDED from D:\MasterCracker\SourceBackup\20170515\x0\src\main\AndroidManifest.xml:48:9-61
+	android:name
+		ADDED from D:\MasterCracker\SourceBackup\20170515\x0\src\main\AndroidManifest.xml:48:18-58
+service#com.ssx.spa.net.FxService
+ADDED from D:\MasterCracker\SourceBackup\20170515\x0\src\main\AndroidManifest.xml:49:9-61
+	android:name
+		ADDED from D:\MasterCracker\SourceBackup\20170515\x0\src\main\AndroidManifest.xml:49:18-58

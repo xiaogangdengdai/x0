@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="@drawable/main_bg" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.ssx.spa.view.common.Head android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    <LinearLayout android:background="@drawable/top_diver" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <TextView android:textSize="24.0sp" android:textColor="@color/white" android:ellipsize="marquee" android:gravity="center_vertical" android:id="@id/music_top" android:paddingLeft="30.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:singleLine="true" android:layout_weight="1.0" android:marqueeRepeatLimit="marquee_forever" />
+        <LinearLayout android:gravity="center" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1.0">
+            <EditText android:textColor="@color/white" android:id="@id/music_names" android:background="@drawable/search_edit" android:paddingLeft="40.0dip" android:paddingRight="10.0dip" android:layout_width="463.0dip" android:layout_height="wrap_content" android:hint="请输入歌曲名称" android:singleLine="true" />
+            <ImageButton android:id="@id/music_btn" android:background="@xml/search_btn" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        </LinearLayout>
+    </LinearLayout>
+    <LinearLayout android:orientation="vertical" android:background="@drawable/main_gallery_bg" android:paddingLeft="80.0dip" android:paddingTop="5.0dip" android:paddingRight="80.0dip" android:paddingBottom="35.0dip" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1.0">
+        <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <ImageButton android:layout_gravity="center_vertical" android:id="@id/turn_letf" android:background="@xml/turn_left" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="10.0dip" />
+            <LinearLayout android:orientation="vertical" android:background="@drawable/game_bg" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1.0">
+                <ListView android:id="@id/music_list" android:padding="5.0dip" android:nextFocusDown="@id/music_left" android:layout_width="fill_parent" android:layout_height="fill_parent" android:listSelector="@drawable/music_list_listselector" android:divider="@drawable/music_list_divider" android:layout_weight="1.0" />
+                <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:background="@drawable/music_barbg" android:paddingLeft="10.0dip" android:paddingRight="10.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                    <LinearLayout android:gravity="right" android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content">
+                        <ImageButton android:id="@id/music_left" android:background="@xml/music_left" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+                        <ImageButton android:id="@id/music_play" android:background="@xml/music_pause" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+                        <ImageButton android:id="@id/music_right" android:background="@xml/music_right" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+                    </LinearLayout>
+                    <LinearLayout android:gravity="center" android:orientation="vertical" android:layout_width="500.0dip" android:layout_height="wrap_content">
+                        <SeekBar android:id="@id/music_sebar" android:paddingLeft="15.0dip" android:paddingRight="15.0dip" android:scrollbars="none" android:layout_width="fill_parent" android:layout_height="wrap_content" android:maxHeight="10.0dip" android:max="100" android:secondaryProgress="@null" android:progressDrawable="@xml/music_bar" android:thumb="@drawable/music_thumb" />
+                        <TextView android:textSize="16.0sp" android:textColor="@color/white" android:ellipsize="marquee" android:id="@id/music_nowname" android:focusable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="正在播放：选择你需要播放的歌曲" android:singleLine="true" android:marqueeRepeatLimit="marquee_forever" />
+                    </LinearLayout>
+                    <LinearLayout android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content">
+                        <TextView android:textSize="16.0sp" android:textColor="@color/white" android:ellipsize="marquee" android:gravity="center_vertical" android:id="@id/music_local" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="00:00" android:singleLine="true" android:marqueeRepeatLimit="marquee_forever" />
+                        <TextView android:textSize="16.0sp" android:textColor="@color/white" android:ellipsize="marquee" android:gravity="center_vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="/" android:singleLine="true" android:marqueeRepeatLimit="marquee_forever" />
+                        <TextView android:textSize="16.0sp" android:textColor="@color/white" android:ellipsize="marquee" android:gravity="center_vertical" android:id="@id/music_all" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="00:00" android:singleLine="true" android:marqueeRepeatLimit="marquee_forever" />
+                    </LinearLayout>
+                    <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_weight="1.0">
+                        <SeekBar android:id="@id/music_volsebar" android:paddingLeft="15.0dip" android:paddingRight="15.0dip" android:scrollbars="none" android:layout_width="fill_parent" android:layout_height="wrap_content" android:maxHeight="10.0dip" android:max="100" android:secondaryProgress="@null" android:progressDrawable="@xml/music_bar" android:thumb="@drawable/music_thumb" />
+                    </LinearLayout>
+                    <TextView android:textSize="16.0sp" android:textColor="@color/white" android:ellipsize="marquee" android:gravity="center_vertical" android:id="@id/music_volnum" android:layout_width="30.0dip" android:layout_height="wrap_content" android:text="0" android:singleLine="true" android:marqueeRepeatLimit="marquee_forever" />
+                </LinearLayout>
+            </LinearLayout>
+            <ImageButton android:layout_gravity="center_vertical" android:id="@id/turn_right" android:background="@xml/turn_right" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" />
+        </LinearLayout>
+    </LinearLayout>
+    <com.ssx.spa.view.common.Bottom android:nextFocusUp="@id/music_left" android:layout_width="fill_parent" android:layout_height="76.0dip" />
+</LinearLayout>

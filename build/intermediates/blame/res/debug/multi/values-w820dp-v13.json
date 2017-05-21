@@ -1,0 +1,50 @@
+[
+    {
+        "outputFile": "F:\\x0\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w820dp-v13\\values-w820dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 60,
+                    "endOffset": 111
+                },
+                "from": {
+                    "file": "F:\\x0\\src\\main\\res\\values-w820dp-v13\\dimens.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 60,
+                        "endOffset": 113
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w820dp-v13\\values-w820dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 60,
+                    "endOffset": 111
+                },
+                "from": {
+                    "file": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\values-w820dp-v13\\dimens.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 60,
+                        "endOffset": 113
+                    }
+                }
+            }
+        ]
+    }
+]

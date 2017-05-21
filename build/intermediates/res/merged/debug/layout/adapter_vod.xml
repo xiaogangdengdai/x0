@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center" android:orientation="vertical" android:padding="10.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/adaptervod_img" android:focusable="false" android:layout_width="155.0dip" android:layout_height="170.0dip" android:scaleType="fitXY" />
+    <TextView android:textSize="24.0sp" android:textColor="@xml/vod_textcolors" android:ellipsize="marquee" android:gravity="center" android:id="@id/adaptervod_name" android:layout_width="141.0dip" android:layout_height="wrap_content" android:singleLine="true" android:marqueeRepeatLimit="marquee_forever" />
+    <ImageView android:background="@xml/vod_select" android:visibility="gone" android:layout_width="141.0dip" android:layout_height="192.0dip" android:scaleType="fitXY" />
+</LinearLayout>

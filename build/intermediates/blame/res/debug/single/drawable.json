@@ -1,0 +1,930 @@
+[
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\gamea.jpg",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\drawable\\gamea.jpg"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\music_pause_btn.png",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\drawable\\music_pause_btn.png"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\back_select.png",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\drawable\\back_select.png"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\service_select.png",
+        "source": "F:\\x0\\src\\main\\res\\drawable\\service_select.png"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\turn_leftselect.png",
+        "source": "F:\\x0\\src\\main\\res\\drawable\\turn_leftselect.png"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\music_right_btn.png",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\drawable\\music_right_btn.png"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\search_btn.png",
+        "source": "F:\\x0\\src\\main\\res\\drawable\\search_btn.png"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\game_bg.png",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\drawable\\game_bg.png"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\turn_right.png",
+        "source": "F:\\x0\\src\\main\\res\\drawable\\turn_right.png"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\volup.png",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\drawable\\volup.png"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\second_progress.png",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\drawable\\second_progress.png"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\music_leftselect_btn.png",
+        "source": "F:\\x0\\src\\main\\res\\drawable\\music_leftselect_btn.png"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\call_cancle.png",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\drawable\\call_cancle.png"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\ico.png",
+        "source": "F:\\x0\\src\\main\\res\\drawable\\ico.png"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\bottom_fod.png",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\drawable\\bottom_fod.png"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\main_gallery_bg.png",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\drawable\\main_gallery_bg.png"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\liuwei_bg.jpg",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\drawable\\liuwei_bg.jpg"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\main_live_select.png",
+        "source": "F:\\x0\\src\\main\\res\\drawable\\main_live_select.png"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\music_list_listselector.png",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\drawable\\music_list_listselector.png"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\vod_back_select.png",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\drawable\\vod_back_select.png"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_ab_holo_dark.xml",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\drawable\\abc_spinner_ab_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\main_vod.png",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\drawable\\main_vod.png"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\vod_select.png",
+        "source": "F:\\x0\\src\\main\\res\\drawable\\vod_select.png"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\back_select.png",
+        "source": "F:\\x0\\src\\main\\res\\drawable\\back_select.png"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\music_bar_all.9.png",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\drawable\\music_bar_all.9.png"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_search_dropdown_light.xml",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\drawable\\abc_search_dropdown_light.xml"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\main_game.png",
+        "source": "F:\\x0\\src\\main\\res\\drawable\\main_game.png"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\game_bg.png",
+        "source": "F:\\x0\\src\\main\\res\\drawable\\game_bg.png"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\bottom_xiazhong.png",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\drawable\\bottom_xiazhong.png"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\main_game_select.png",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\drawable\\main_game_select.png"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\now_play.png",
+        "source": "F:\\x0\\src\\main\\res\\drawable\\now_play.png"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\main_music_select.png",
+        "source": "F:\\x0\\src\\main\\res\\drawable\\main_music_select.png"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\service_grid.png",
+        "source": "F:\\x0\\src\\main\\res\\drawable\\service_grid.png"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\tv_double.jpg",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\drawable\\tv_double.jpg"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\music_rightselect_btn.png",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\drawable\\music_rightselect_btn.png"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\anpai.png",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\drawable\\anpai.png"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\bottom_shangzhong.png",
+        "source": "F:\\x0\\src\\main\\res\\drawable\\bottom_shangzhong.png"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\ico.png",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\drawable\\ico.png"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\backs.png",
+        "source": "F:\\x0\\src\\main\\res\\drawable\\backs.png"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\head_call.png",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\drawable\\head_call.png"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\main_music.png",
+        "source": "F:\\x0\\src\\main\\res\\drawable\\main_music.png"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\music_playselect_btn.png",
+        "source": "F:\\x0\\src\\main\\res\\drawable\\music_playselect_btn.png"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\call_cancle_f.png",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\drawable\\call_cancle_f.png"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\main_live.png",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\drawable\\main_live.png"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\home.png",
+        "source": "F:\\x0\\src\\main\\res\\drawable\\home.png"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\bottoms_bg.png",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\drawable\\bottoms_bg.png"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_searchview_holo_dark.xml",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\drawable\\abc_textfield_searchview_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_ab_holo_light.xml",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\drawable\\abc_spinner_ab_holo_light.xml"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\service_grid.png",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\drawable\\service_grid.png"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\service_listbg.png",
+        "source": "F:\\x0\\src\\main\\res\\drawable\\service_listbg.png"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\now_play.png",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\drawable\\now_play.png"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\play_new_fcous.png",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\drawable\\play_new_fcous.png"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_holo_light.xml",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\drawable\\abc_ic_clear_holo_light.xml"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\jinyin.png",
+        "source": "F:\\x0\\src\\main\\res\\drawable\\jinyin.png"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\main_service.png",
+        "source": "F:\\x0\\src\\main\\res\\drawable\\main_service.png"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\music_pauseselect_btn.png",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\drawable\\music_pauseselect_btn.png"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\head_call_select.png",
+        "source": "F:\\x0\\src\\main\\res\\drawable\\head_call_select.png"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\head_call_select.png",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\drawable\\head_call_select.png"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\voldown.png",
+        "source": "F:\\x0\\src\\main\\res\\drawable\\voldown.png"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\head_call.png",
+        "source": "F:\\x0\\src\\main\\res\\drawable\\head_call.png"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\music_thumb.png",
+        "source": "F:\\x0\\src\\main\\res\\drawable\\music_thumb.png"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\turn_rightselect.png",
+        "source": "F:\\x0\\src\\main\\res\\drawable\\turn_rightselect.png"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\turn_left.png",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\drawable\\turn_left.png"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\main_service_select.png",
+        "source": "F:\\x0\\src\\main\\res\\drawable\\main_service_select.png"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_ab_holo.xml",
+        "source": "F:\\x0\\src\\main\\res\\drawable\\abc_tab_indicator_ab_holo.xml"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\imgfail.png",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\drawable\\imgfail.png"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\music_list_divider.png",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\drawable\\music_list_divider.png"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\pause_new.png",
+        "source": "F:\\x0\\src\\main\\res\\drawable\\pause_new.png"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\touming.png",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\drawable\\touming.png"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\bottom_fod.png",
+        "source": "F:\\x0\\src\\main\\res\\drawable\\bottom_fod.png"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\service_list.png",
+        "source": "F:\\x0\\src\\main\\res\\drawable\\service_list.png"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\service_webview.png",
+        "source": "F:\\x0\\src\\main\\res\\drawable\\service_webview.png"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\split.png",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\drawable\\split.png"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\main_bg.jpg",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\drawable\\main_bg.jpg"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\music_bar_local.9.png",
+        "source": "F:\\x0\\src\\main\\res\\drawable\\music_bar_local.9.png"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\volup.png",
+        "source": "F:\\x0\\src\\main\\res\\drawable\\volup.png"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\bottom_xiazhong.png",
+        "source": "F:\\x0\\src\\main\\res\\drawable\\bottom_xiazhong.png"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\program_list_bg.png",
+        "source": "F:\\x0\\src\\main\\res\\drawable\\program_list_bg.png"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\tv_double.jpg",
+        "source": "F:\\x0\\src\\main\\res\\drawable\\tv_double.jpg"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "F:\\x0\\src\\main\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\head_liuzuo.png",
+        "source": "F:\\x0\\src\\main\\res\\drawable\\head_liuzuo.png"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\main_music.png",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\drawable\\main_music.png"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\split.png",
+        "source": "F:\\x0\\src\\main\\res\\drawable\\split.png"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\main_live_select.png",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\drawable\\main_live_select.png"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\music_bar.png",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\drawable\\music_bar.png"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\service_select.png",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\drawable\\service_select.png"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_search_dropdown_dark.xml",
+        "source": "F:\\x0\\src\\main\\res\\drawable\\abc_search_dropdown_dark.xml"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_select.png",
+        "source": "F:\\x0\\src\\main\\res\\drawable\\bg_select.png"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\music_pause_btn.png",
+        "source": "F:\\x0\\src\\main\\res\\drawable\\music_pause_btn.png"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\main_navig_select.png",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\drawable\\main_navig_select.png"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\turn_right.png",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\drawable\\turn_right.png"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_holo_light.xml",
+        "source": "F:\\x0\\src\\main\\res\\drawable\\abc_ic_clear_holo_light.xml"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_searchview_right_holo_dark.xml",
+        "source": "F:\\x0\\src\\main\\res\\drawable\\abc_textfield_searchview_right_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\main_navig_select.png",
+        "source": "F:\\x0\\src\\main\\res\\drawable\\main_navig_select.png"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\music_play_btn.png",
+        "source": "F:\\x0\\src\\main\\res\\drawable\\music_play_btn.png"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_search_dropdown_light.xml",
+        "source": "F:\\x0\\src\\main\\res\\drawable\\abc_search_dropdown_light.xml"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\back.png",
+        "source": "F:\\x0\\src\\main\\res\\drawable\\back.png"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\search_btn_select.png",
+        "source": "F:\\x0\\src\\main\\res\\drawable\\search_btn_select.png"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\main_navig.png",
+        "source": "F:\\x0\\src\\main\\res\\drawable\\main_navig.png"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\call_cancle.png",
+        "source": "F:\\x0\\src\\main\\res\\drawable\\call_cancle.png"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear.xml",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\drawable\\abc_ic_clear.xml"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\service_listbg.png",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\drawable\\service_listbg.png"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\bottom_liuzuo.png",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\drawable\\bottom_liuzuo.png"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\main_bg.jpg",
+        "source": "F:\\x0\\src\\main\\res\\drawable\\main_bg.jpg"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\music_list_divider.png",
+        "source": "F:\\x0\\src\\main\\res\\drawable\\music_list_divider.png"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\game_select.png",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\drawable\\game_select.png"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_searchview_holo_light.xml",
+        "source": "F:\\x0\\src\\main\\res\\drawable\\abc_textfield_searchview_holo_light.xml"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\main_logo.png",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\drawable\\main_logo.png"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\call_cancle_vf.png",
+        "source": "F:\\x0\\src\\main\\res\\drawable\\call_cancle_vf.png"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\play_new_fcous.png",
+        "source": "F:\\x0\\src\\main\\res\\drawable\\play_new_fcous.png"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\pause_new_focus.png",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\drawable\\pause_new_focus.png"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\search_btn_select.png",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\drawable\\search_btn_select.png"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\order_test.png",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\drawable\\order_test.png"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "F:\\x0\\src\\main\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\bottom_jishi.png",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\drawable\\bottom_jishi.png"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\main_vod_select.png",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\drawable\\main_vod_select.png"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_search_dropdown_dark.xml",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\drawable\\abc_search_dropdown_dark.xml"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\search_edit.png",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\drawable\\search_edit.png"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\music_play_btn.png",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\drawable\\music_play_btn.png"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\main_navig.png",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\drawable\\main_navig.png"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\head_liuzuoselect.png",
+        "source": "F:\\x0\\src\\main\\res\\drawable\\head_liuzuoselect.png"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\music_rightselect_btn.png",
+        "source": "F:\\x0\\src\\main\\res\\drawable\\music_rightselect_btn.png"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\liuwei_bg.jpg",
+        "source": "F:\\x0\\src\\main\\res\\drawable\\liuwei_bg.jpg"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\vod_back.png",
+        "source": "F:\\x0\\src\\main\\res\\drawable\\vod_back.png"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\bottom_hujiao.png",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\drawable\\bottom_hujiao.png"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\game_hanban.jpg",
+        "source": "F:\\x0\\src\\main\\res\\drawable\\game_hanban.jpg"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\music_barbg.png",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\drawable\\music_barbg.png"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\main_service.png",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\drawable\\main_service.png"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\main_logo.png",
+        "source": "F:\\x0\\src\\main\\res\\drawable\\main_logo.png"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\anpai_select.png",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\drawable\\anpai_select.png"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\forward_focus.png",
+        "source": "F:\\x0\\src\\main\\res\\drawable\\forward_focus.png"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\main_live.png",
+        "source": "F:\\x0\\src\\main\\res\\drawable\\main_live.png"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\rewind_focus.png",
+        "source": "F:\\x0\\src\\main\\res\\drawable\\rewind_focus.png"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\jinyin_select.png",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\drawable\\jinyin_select.png"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\touming.png",
+        "source": "F:\\x0\\src\\main\\res\\drawable\\touming.png"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear.xml",
+        "source": "F:\\x0\\src\\main\\res\\drawable\\abc_ic_clear.xml"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\music_bar_local.9.png",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\drawable\\music_bar_local.9.png"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_ab_holo_dark.xml",
+        "source": "F:\\x0\\src\\main\\res\\drawable\\abc_spinner_ab_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\rewind_normal.png",
+        "source": "F:\\x0\\src\\main\\res\\drawable\\rewind_normal.png"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\bottom_liuzuo.png",
+        "source": "F:\\x0\\src\\main\\res\\drawable\\bottom_liuzuo.png"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\bottom_shangzhong.png",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\drawable\\bottom_shangzhong.png"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_bg.png",
+        "source": "F:\\x0\\src\\main\\res\\drawable\\progress_bg.png"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\second_progress.png",
+        "source": "F:\\x0\\src\\main\\res\\drawable\\second_progress.png"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\backs.png",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\drawable\\backs.png"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\music_pauseselect_btn.png",
+        "source": "F:\\x0\\src\\main\\res\\drawable\\music_pauseselect_btn.png"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "F:\\x0\\src\\main\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\main_music_select.png",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\drawable\\main_music_select.png"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\now_play_select.png",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\drawable\\now_play_select.png"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\game_liuyan.jpg",
+        "source": "F:\\x0\\src\\main\\res\\drawable\\game_liuyan.jpg"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\forward_focus.png",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\drawable\\forward_focus.png"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\tv_single.jpg",
+        "source": "F:\\x0\\src\\main\\res\\drawable\\tv_single.jpg"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\jinyin_select.png",
+        "source": "F:\\x0\\src\\main\\res\\drawable\\jinyin_select.png"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "F:\\x0\\src\\main\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\order_test.png",
+        "source": "F:\\x0\\src\\main\\res\\drawable\\order_test.png"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\music_right_btn.png",
+        "source": "F:\\x0\\src\\main\\res\\drawable\\music_right_btn.png"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\vod_select.png",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\drawable\\vod_select.png"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\main_gallery_bg.png",
+        "source": "F:\\x0\\src\\main\\res\\drawable\\main_gallery_bg.png"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\main_service_select.png",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\drawable\\main_service_select.png"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\music_left_btn.png",
+        "source": "F:\\x0\\src\\main\\res\\drawable\\music_left_btn.png"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_ab_holo.xml",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\drawable\\abc_tab_indicator_ab_holo.xml"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\voldown.png",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\drawable\\voldown.png"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\game_hanban.jpg",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\drawable\\game_hanban.jpg"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "F:\\x0\\src\\main\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\top_diver.png",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\drawable\\top_diver.png"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\gamea.jpg",
+        "source": "F:\\x0\\src\\main\\res\\drawable\\gamea.jpg"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\music_bar_all.9.png",
+        "source": "F:\\x0\\src\\main\\res\\drawable\\music_bar_all.9.png"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\forward_normal.png",
+        "source": "F:\\x0\\src\\main\\res\\drawable\\forward_normal.png"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_searchview_right_holo_light.xml",
+        "source": "F:\\x0\\src\\main\\res\\drawable\\abc_textfield_searchview_right_holo_light.xml"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\imgfail.png",
+        "source": "F:\\x0\\src\\main\\res\\drawable\\imgfail.png"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\play_new.png",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\drawable\\play_new.png"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\turn_rightselect.png",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\drawable\\turn_rightselect.png"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\anpai.png",
+        "source": "F:\\x0\\src\\main\\res\\drawable\\anpai.png"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\game_liuyan.jpg",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\drawable\\game_liuyan.jpg"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\call_cancle_vf.png",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\drawable\\call_cancle_vf.png"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_bg.png",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\drawable\\progress_bg.png"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\head_liuzuo.png",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\drawable\\head_liuzuo.png"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\music_leftselect_btn.png",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\drawable\\music_leftselect_btn.png"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\pause_new_focus.png",
+        "source": "F:\\x0\\src\\main\\res\\drawable\\pause_new_focus.png"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\call_cancle_f.png",
+        "source": "F:\\x0\\src\\main\\res\\drawable\\call_cancle_f.png"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\rewind_normal.png",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\drawable\\rewind_normal.png"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\browser.jpg",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\drawable\\browser.jpg"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\toolbar_btn_focus.jpg",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\drawable\\toolbar_btn_focus.jpg"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\back.png",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\drawable\\back.png"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "F:\\x0\\src\\main\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\music_left_btn.png",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\drawable\\music_left_btn.png"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\music_playselect_btn.png",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\drawable\\music_playselect_btn.png"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\search_btn.png",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\drawable\\search_btn.png"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\rewind_focus.png",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\drawable\\rewind_focus.png"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\service_webview.png",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\drawable\\service_webview.png"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\browser.jpg",
+        "source": "F:\\x0\\src\\main\\res\\drawable\\browser.jpg"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_searchview_holo_dark.xml",
+        "source": "F:\\x0\\src\\main\\res\\drawable\\abc_textfield_searchview_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\tv_single.jpg",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\drawable\\tv_single.jpg"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\bottom_jishi.png",
+        "source": "F:\\x0\\src\\main\\res\\drawable\\bottom_jishi.png"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_select.png",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\drawable\\bg_select.png"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\search_edit.png",
+        "source": "F:\\x0\\src\\main\\res\\drawable\\search_edit.png"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\main_game.png",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\drawable\\main_game.png"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\main_game_select.png",
+        "source": "F:\\x0\\src\\main\\res\\drawable\\main_game_select.png"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\music_thumb.png",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\drawable\\music_thumb.png"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\bottoms_bg.png",
+        "source": "F:\\x0\\src\\main\\res\\drawable\\bottoms_bg.png"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_searchview_right_holo_light.xml",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\drawable\\abc_textfield_searchview_right_holo_light.xml"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\main_vod_select.png",
+        "source": "F:\\x0\\src\\main\\res\\drawable\\main_vod_select.png"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\music_bar.png",
+        "source": "F:\\x0\\src\\main\\res\\drawable\\music_bar.png"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\play_new.png",
+        "source": "F:\\x0\\src\\main\\res\\drawable\\play_new.png"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\now_play_select.png",
+        "source": "F:\\x0\\src\\main\\res\\drawable\\now_play_select.png"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\bottom_hujiao.png",
+        "source": "F:\\x0\\src\\main\\res\\drawable\\bottom_hujiao.png"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\game_select.png",
+        "source": "F:\\x0\\src\\main\\res\\drawable\\game_select.png"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\service_list.png",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\drawable\\service_list.png"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\turn_leftselect.png",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\drawable\\turn_leftselect.png"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\music_list_listselector.png",
+        "source": "F:\\x0\\src\\main\\res\\drawable\\music_list_listselector.png"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\anpai_select.png",
+        "source": "F:\\x0\\src\\main\\res\\drawable\\anpai_select.png"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\top_diver.png",
+        "source": "F:\\x0\\src\\main\\res\\drawable\\top_diver.png"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_ab_holo_light.xml",
+        "source": "F:\\x0\\src\\main\\res\\drawable\\abc_spinner_ab_holo_light.xml"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\jinyin.png",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\drawable\\jinyin.png"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\music_barbg.png",
+        "source": "F:\\x0\\src\\main\\res\\drawable\\music_barbg.png"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\turn_left.png",
+        "source": "F:\\x0\\src\\main\\res\\drawable\\turn_left.png"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\program_list_bg.png",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\drawable\\program_list_bg.png"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\home.png",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\drawable\\home.png"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\main_vod.png",
+        "source": "F:\\x0\\src\\main\\res\\drawable\\main_vod.png"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\toolbar_btn_focus.jpg",
+        "source": "F:\\x0\\src\\main\\res\\drawable\\toolbar_btn_focus.jpg"
+    },
+    {
+        "merged": "F:\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\vod_back_select.png",
+        "source": "F:\\x0\\src\\main\\res\\drawable\\vod_back_select.png"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\vod_back.png",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\drawable\\vod_back.png"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\pause_new.png",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\drawable\\pause_new.png"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_searchview_right_holo_dark.xml",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\drawable\\abc_textfield_searchview_right_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\head_liuzuoselect.png",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\drawable\\head_liuzuoselect.png"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\forward_normal.png",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\drawable\\forward_normal.png"
+    },
+    {
+        "merged": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_searchview_holo_light.xml",
+        "source": "D:\\MasterCracker\\SourceBackup\\20170515\\x0\\src\\main\\res\\drawable\\abc_textfield_searchview_holo_light.xml"
+    }
+]

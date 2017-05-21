@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1.0">
+        <LinearLayout android:gravity="top" android:orientation="vertical" android:id="@id/liveline" android:background="@drawable/program_list_bg" android:layout_width="200.0dip" android:layout_height="fill_parent" android:layout_marginLeft="20.0dip" android:layout_marginTop="50.0dip" android:layout_marginBottom="50.0dip">
+            <ImageButton android:layout_gravity="center" android:id="@id/liveback" android:background="@xml/back" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="10.0px" />
+            <ListView android:id="@id/programListView" android:scrollbars="none" android:layout_width="fill_parent" android:layout_height="fill_parent" android:divider="@drawable/split" android:layout_weight="1.0" />
+        </LinearLayout>
+        <RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <LinearLayout android:gravity="center" android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentRight="true" android:layout_centerVertical="true">
+                <com.ssx.spa.view.common.VideoBars android:layout_gravity="center" android:id="@id/bars" android:layout_width="wrap_content" android:layout_height="200.0dip" android:max="100" />
+                <TextView android:textSize="22.0px" android:id="@id/vol_txt" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" />
+                <ImageButton android:id="@id/back" android:background="@xml/vod_back" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" />
+                <ImageButton android:id="@id/jinyin" android:background="@xml/jinyin" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="20.0dip" />
+            </LinearLayout>
+        </RelativeLayout>
+    </LinearLayout>
+    <com.ssx.spa.view.common.BottomMenuView android:layout_gravity="bottom" android:id="@id/bottomview" android:layout_width="1920.0px" android:layout_height="wrap_content" />
+</LinearLayout>

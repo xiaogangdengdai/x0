@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\MasterCracker\SourceBackup\20170515\x0\mlibs.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0d2591880ce7da6dad55de3e859cfeaaaa1648ca">
+        <dex dex="D:\MasterCracker\SourceBackup\20170515\x0\build\intermediates\pre-dexed\debug\mlibs_07e199d5366189b9d4a346dc9f974e7afdf661bd.jar" />
+    </item>
+
+</items>

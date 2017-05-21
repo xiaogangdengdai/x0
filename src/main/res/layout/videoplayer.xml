@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_gravity="center" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:id="@id/vlayout" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <VideoView android:layout_gravity="center" android:id="@id/player" android:background="@android:color/transparent" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_centerInParent="true" />
+        <VideoView android:layout_gravity="center" android:id="@id/player2" android:background="@android:color/transparent" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_centerInParent="true" />
+    </RelativeLayout>
+    <TextView android:textSize="60.0sp" android:textStyle="bold" android:textColor="@color/green" android:gravity="center" android:layout_gravity="center|right|top" android:id="@id/tai_num" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="20.0dip" android:singleLine="true" />
+    <com.ssx.spa.view.common.BottomMenuView android:layout_gravity="bottom" android:id="@id/bottomview" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    <com.ssx.spa.view.common.LiveBottom android:layout_gravity="bottom" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="76.0dip" />
+</FrameLayout>
