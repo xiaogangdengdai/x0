@@ -1,5 +1,4 @@
 package com.ssx.spa.common;
-
 import android.app.Application;
 import android.widget.EditText;
 import com.android.volley.RequestQueue;
